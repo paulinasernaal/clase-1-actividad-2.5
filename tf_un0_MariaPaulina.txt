@@ -1,0 +1,1 @@
+Un sistema de control de versiones es una herramienta que permite gestionar y registrar los cambios realizados en archivos a lo largo del tiempo. Facilita la colaboración entre varios desarrolladores, asegurando que cada versión del archivo sea accesible y reversible. Además, permite comparar, restaurar y fusionar diferentes versiones de los archivos.
